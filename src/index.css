@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.topheader {
+  height: 70px;
+}
+
+.topheader input {
+  width: 32vw !important;
+  border-radius: 20px;
+  padding: 8px 15px;
+  border: 1px solid #ced4da;
+  height: 38px !important;
+  /* color: rgb(87, 86, 86); */
+}
+.mobilesearch input{
+  width: 32vw !important;
+  border-radius: 20px;
+  padding: 8px 15px;
+  border: 1px solid #ced4da;
+  height: 30px !important;
+}
+.mobilesearch button{
+  height: 30px;
+  background-color: #198754;
+}
